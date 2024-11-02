@@ -1,7 +1,11 @@
 # Welcome to our Project Based on Classifying Lung X-Ray Images for Pneumonia  Detection
 ## About 
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses classifying lung x-ray images taken from here https://data.mendeley.com/datasets/rscbjbr9sj/3 . For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses classifying lung x-ray images taken from the Mendeley dataset.
+
+Link here:https://data.mendeley.com/datasets/rscbjbr9sj/3. 
+
+For detailed walkthrough, please view the source code in order from:
 1. Data Collection
 2. Data Preparation
 3. Data Exploration
