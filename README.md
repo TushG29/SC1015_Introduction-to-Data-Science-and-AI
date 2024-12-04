@@ -17,11 +17,6 @@ For detailed walkthrough, please view the source code in order from:
 
 We have also included the slides for our project
 
-## Contributors
-1. @MEHT0007@e.ntu.edu.sg        - Data Collection, Preparation, and Exploratory, Deep Dearning 
-2. @TUSHARSA001@e.ntu.edu.sg - Classifying using Logistic Regression
-3. @CHAN0991@e.ntu.edu.sg       - Classifying using Decision Trees
-
 ## Problem Definition
 Classifying if a chest xray is normal or depicts that the person has pneumonia
 
